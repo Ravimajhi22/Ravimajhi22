@@ -8,8 +8,6 @@ Email Me 👉 ✉️ **ravimajhi49207@gmail.com** For Collaboration/Project or A
 - 😄 **Pronouns:** Ravi 
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/robin_s03)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ravimajhi49207@gmail.com) 
@@ -22,6 +20,7 @@ Email Me 👉 ✉️ **ravimajhi49207@gmail.com** For Collaboration/Project or A
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
+
 
 ## 📊 GitHub Stats
 
